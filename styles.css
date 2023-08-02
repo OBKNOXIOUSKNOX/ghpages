@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(126, 165, 42);
+}
+div {
+  /* display: flex; */
+  background-color: brown;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  display: block;
+}
